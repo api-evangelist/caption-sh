@@ -72,15 +72,107 @@ caption.sh provides an AI-powered captions API for automated user‑generated co
 
 Everything profiled for caption-sh is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/caption-sh/](https://apis.io/providers/caption-sh/)** — or go straight to one of the APIs or properties below.
 
+### APIs (11)
+
+- [caption-sh Antigravity.md API](https://apis.io/apis/caption-sh/caption-sh-antigravity-md-api/) — The Antigravity.md API from caption-sh — 1 operation(s) for antigravity.md.
+- [caption-sh Chatgpt.md API](https://apis.io/apis/caption-sh/caption-sh-chatgpt-md-api/) — The Chatgpt.md API from caption-sh — 1 operation(s) for chatgpt.md.
+- [caption-sh Claude.md API](https://apis.io/apis/caption-sh/caption-sh-claude-md-api/) — The Claude.md API from caption-sh — 1 operation(s) for claude.md.
+- [caption-sh Codex.md API](https://apis.io/apis/caption-sh/caption-sh-codex-md-api/) — The Codex.md API from caption-sh — 1 operation(s) for codex.md.
+- [caption-sh Cursor.md API](https://apis.io/apis/caption-sh/caption-sh-cursor-md-api/) — The Cursor.md API from caption-sh — 1 operation(s) for cursor.md.
+- [caption-sh Index.md API](https://apis.io/apis/caption-sh/caption-sh-index-md-api/) — The Index.md API from caption-sh — 1 operation(s) for index.md.
+- [caption-sh Install.sh API](https://apis.io/apis/caption-sh/caption-sh-install-sh-api/) — The Install.sh API from caption-sh — 1 operation(s) for install.sh.
+- [caption-sh MCP API](https://apis.io/apis/caption-sh/caption-sh-mcp-api/) — The Mcp API from caption-sh — 2 operation(s) for mcp.
+- [caption-sh Pricing.md API](https://apis.io/apis/caption-sh/caption-sh-pricing-md-api/) — The Pricing.md API from caption-sh — 1 operation(s) for pricing.md.
+- [caption-sh Use Lazyweb.md API](https://apis.io/apis/caption-sh/caption-sh-use-lazyweb-md-api/) — The Use Lazyweb.md API from caption-sh — 1 operation(s) for use lazyweb.md.
+- [caption-sh .well Known API](https://apis.io/apis/caption-sh/caption-sh-well-known-api/) — The .well Known API from caption-sh — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Caption Sh Agentic Access](https://apis.io/agentic-access/caption-sh/caption-sh-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [McpInstallTokenResponse](https://apis.io/schemas/caption-sh/caption-sh-mcp-install-token-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Caption Sh Context](https://apis.io/jsonld/caption-sh/caption-sh-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [caption-sh API Rules](https://apis.io/rules/caption-sh/caption-sh-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Caption Sh Authentication](https://apis.io/security/caption-sh/caption-sh-authentication/)
+- [Caption Sh Domain Security](https://apis.io/security/caption-sh/caption-sh-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://caption.sh/)
+- [Documentation](https://caption.sh/index.md)
+- [Blog](https://caption.sh/blog)
+- [Terms of service](https://caption.sh/terms)
+- [Privacy policy](https://caption.sh/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/caption-sh/](https://apis.io/providers/caption-sh/).
+**Kin Score 39.0** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 47.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/caption-sh/](https://apis.io/providers/caption-sh/).
 
 ## How this profile is made
 
